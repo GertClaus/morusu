@@ -72,3 +72,8 @@
 		background-size: 15em, 15em, auto, cover;
 		padding: 3em;
 	}
+	
+/* NAV */
+header#header {
+		visibility:hidden;
+	}
